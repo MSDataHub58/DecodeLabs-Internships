@@ -62,3 +62,5 @@ Outlier detection
 Data visualization
 Dashboard development
 Data interpretation and storytelling.
+[View Project Repository](DECODE LAB PROJECTS)
+
