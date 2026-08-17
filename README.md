@@ -34,6 +34,16 @@ Used a threshold of ±3 for potential outlier detection
 Created an interactive dashboard to visualize the findings
 Summarized key observations and insights
 
+Recommendations
+
+Based on the analysis, the following recommendations can be considered:
+
+Investigate high-value transactions: Review potential product-level outliers to determine whether they represent genuine high-value sales or data inconsistencies.
+Monitor product performance: Track revenue and transaction volume by product to identify strong-performing and underperforming products.
+Monitor sales trends: Pay attention to significant increases or decreases in revenue over time to identify periods that may require further investigation.
+Use median alongside mean: Since the mean is higher than the median, the median can provide an additional view of typical transaction value when high-value transactions are present.
+Improve future analysis: Further analysis could examine factors such as order status, quantity, unit price, and time periods to better understand the drivers of sales performance.
+
 Tools Used: Microsoft Excel and Microsoft Power BI
 [View Task](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/24104c5a517bb52f7b399292174bbdaed7e0a8af/DECODE%20LAB%20PROJECTS/Task%202)
 
