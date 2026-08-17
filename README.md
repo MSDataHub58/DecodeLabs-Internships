@@ -11,10 +11,15 @@ Project 1: Data Cleaning & Preparation
 The first project focused on cleaning and preparing a raw sales dataset for analysis.
 
 Tasks Performed
+
 Identified and handled missing/null values
+
 Removed duplicate records
+
 Corrected incorrect or inconsistent data formats
+
 Checked numerical and text fields for consistency
+
 Prepared the cleaned dataset for further analysis
 
 Tools Used: Microsoft Excel
@@ -80,11 +85,18 @@ Learning Outcomes
 Through these projects, I gained practical experience in:
 
 Data cleaning and preparation
+
 Exploratory Data Analysis
+
 Descriptive statistics
+
 Outlier detection
+
 Data visualization
+
 Dashboard development
+
 Data interpretation and storytelling.
+
 [View Project Repository](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/bb69e0bff96b00321533e9b0957c9acfd3583e07/DECODE%20LAB%20PROJECTS)
 
