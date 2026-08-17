@@ -18,7 +18,7 @@ Checked numerical and text fields for consistency
 Prepared the cleaned dataset for further analysis
 
 Tools Used: Microsoft Excel
-
+[View Task](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/24104c5a517bb52f7b399292174bbdaed7e0a8af/DECODE%20LAB%20PROJECTS/Task%201)
 
 Project 2: Exploratory Data Analysis (EDA)
 
@@ -35,6 +35,8 @@ Created an interactive dashboard to visualize the findings
 Summarized key observations and insights
 
 Tools Used: Microsoft Excel and Microsoft Power BI
+[View Task](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/24104c5a517bb52f7b399292174bbdaed7e0a8af/DECODE%20LAB%20PROJECTS/Task%202)
+
 
 Dashboard
 
