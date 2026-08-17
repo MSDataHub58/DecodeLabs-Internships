@@ -62,5 +62,5 @@ Outlier detection
 Data visualization
 Dashboard development
 Data interpretation and storytelling.
-[View Project Repository](DECODE LAB PROJECTS)
+[View Project Repository](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/bb69e0bff96b00321533e9b0957c9acfd3583e07/DECODE%20LAB%20PROJECTS)
 
