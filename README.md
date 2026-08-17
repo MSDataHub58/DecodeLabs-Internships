@@ -26,12 +26,19 @@ The second project focused on exploring the cleaned sales dataset and identifyin
 
 Analysis Performed
 Calculated descriptive statistics including Mean, Median, and Count
+
 Analyzed revenue and product performance
+
 Analyzed transaction/record counts by product
+
 Created time-based trend analysis
+
 Identified potential product-level outliers using the Z-score method
+
 Used a threshold of ±3 for potential outlier detection
+
 Created an interactive dashboard to visualize the findings
+
 Summarized key observations and insights
 
 Recommendations
@@ -39,9 +46,14 @@ Recommendations
 Based on the analysis, the following recommendations can be considered:
 
 Investigate high-value transactions: Review potential product-level outliers to determine whether they represent genuine high-value sales or data inconsistencies.
+
 Monitor product performance: Track revenue and transaction volume by product to identify strong-performing and underperforming products.
+
 Monitor sales trends: Pay attention to significant increases or decreases in revenue over time to identify periods that may require further investigation.
-Use median alongside mean: Since the mean is higher than the median, the median can provide an additional view of typical transaction value when high-value transactions are present.
+
+Use median alongside mean: Since the mean is higher than the median, the median can provide an additional view of typical transaction value when high-value transactions 
+are present.
+
 Improve future analysis: Further analysis could examine factors such as order status, quantity, unit price, and time periods to better understand the drivers of sales performance.
 
 Tools Used: Microsoft Excel and Microsoft Power BI
