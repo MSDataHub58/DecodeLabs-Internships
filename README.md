@@ -1,12 +1,12 @@
 # DecodeLabs-Internships
 
-About the Internship
+# About the Internship
 
 As part of my Data Analytics Internship at Decode Labs, I worked on practical projects focused on preparing, analyzing, and visualizing sales data. These projects helped me apply data analytics concepts in a practical environment and improve my skills in data cleaning, exploratory analysis, statistical analysis, outlier detection, visualization, and dashboard development.
 
-Decode Labs – Data Analytics Internship Projects
+# Decode Labs – Data Analytics Internship Projects
 
-Project 1: Data Cleaning & Preparation
+# Project 1: Data Cleaning & Preparation
 
 The first project focused on cleaning and preparing a raw sales dataset for analysis.
 
@@ -25,7 +25,7 @@ Prepared the cleaned dataset for further analysis
 Tools Used: Microsoft Excel
 [View Task](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/24104c5a517bb52f7b399292174bbdaed7e0a8af/DECODE%20LAB%20PROJECTS/Task%201)
 
-Project 2: Exploratory Data Analysis (EDA)
+# Project 2: Exploratory Data Analysis (EDA)
 
 The second project focused on exploring the cleaned sales dataset and identifying meaningful patterns and insights.
 
@@ -46,7 +46,7 @@ Created an interactive dashboard to visualize the findings
 
 Summarized key observations and insights
 
-Recommendations
+# Recommendations
 
 Based on the analysis, the following recommendations can be considered:
 
@@ -65,7 +65,7 @@ Tools Used: Microsoft Excel and Microsoft Power BI
 [View Task](https://github.com/MSDataHub58/DecodeLabs-Internships/tree/24104c5a517bb52f7b399292174bbdaed7e0a8af/DECODE%20LAB%20PROJECTS/Task%202)
 
 
-Dashboard
+# Dashboard
 
 The Power BI dashboard includes:
 
